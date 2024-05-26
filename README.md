@@ -1,2 +1,3 @@
 # first-demo
-my first github project
+My first git repository
+Author-Ojal Sahu
